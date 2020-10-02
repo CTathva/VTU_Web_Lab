@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <style>
+        table,tr,td 
+        {
+            border: solid black;
+            width: 33%;
+            text-align: center;
+            border-collapse: collapse;
+            background-color: lightblue;
+        }
+        table
+        {
+            margin: auto;
+        }
+
+    </style>
+    <script>
+        document.write("<center>")
+        document.write("<table><tr><td colspan='3'>SQUARES AND CUBES </td></tr></table>");
+        document.write("<table><tr><td>Number</td><td>Square</td><td>Cube</td></tr>");
+        for (var n = 0; n <= 10; n++) 
+        {
+            document.write("<tr><td>" + n + "</td><td>" + n * n + "</td><td>" + n * n * n + "</td></tr>");
+        }
+        document.write("</table></center>");
+
+    </script>
+</head>
+
+</html>

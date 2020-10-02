@@ -1,0 +1,33 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <h1> STUDENTS DESCRIPTION </h1>
+</head>
+<students>
+    <student>
+        <USN>USN : 4AB16CS001</USN>
+        <name>NAME : ABC</name>
+        <college>COLLEGE :  IIT</college>
+        <branch>BRANCH : Computer Science and Engineering</branch>
+        <year>YEAR : 2016</year>
+        <e-mail>E-Mail : abc@gmail.com</e-mail>
+    </student>
+    <student>
+        <USN>USN :  4AB17CS002</USN>
+        <name>NAME : XYZ</name>
+        <college>COLLEGE :  IIT</college>
+        <branch>BRANCH : Computer Science and Engineering</branch>
+        <year>YEAR : 2017</year>
+        <e-mail>E-Mail : xyz@gmail.com</e-mail>
+    </student>
+    <student>
+        <USN>USN :  4AB18CS003</USN>
+        <name>NAME : PQR</name>
+        <college>COLLEGE :  IIT</college>
+        <branch>BRANCH : Computer Science and Engineering</branch>
+        <year>YEAR : 2018</year>
+        <e-mail>E-Mail : pqr@gmail.com</e-mail>
+    </student>
+</students>
+</html>
